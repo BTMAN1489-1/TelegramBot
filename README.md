@@ -10,4 +10,9 @@
 5. Get a free [Let's Encrypt](https://letsencrypt.org/getting-started) certificate for the domain name of your remote server;
 
 ### First step:
-:one: Clone this repository to your remote server with the command `git clone https://github.com/BTMAN1489-1/TelegramBot.git`;
+  - Clone this repository to your remote server with the command `git clone https://github.com/BTMAN1489-1/TelegramBot.git`;
+  - Go to the project folder with the command `cd TelegramBot`;
+
+### Bot setup:
+  - Go to folder name with command `cd telegrambot`;
+    - Сreate a bot configuration file `.env` following the example file `.env.example`;
