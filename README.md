@@ -17,6 +17,6 @@
   - Go to folder `telegrambot` with command `cd telegrambot`;
     - Сreate a bot configuration file `.env` following the next example:
       ```.env
-      API_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
-      WEBHOOK_HOST=https://example.com
+      API_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11 # this is your token
+      WEBHOOK_HOST=https://example.com  # this is your domain name of remote server
       ```
