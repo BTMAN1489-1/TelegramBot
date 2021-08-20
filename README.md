@@ -27,3 +27,8 @@
       - Insert your domain name of the remote server instead of the 'example.com';
       - Save and exit;
   - Go to the root of the project with the command `cd ..`;
+
+### Running docker containers:
+  - Enter the command `docker-compose up`;
+
+## Your bot is running!!!
