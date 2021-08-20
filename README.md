@@ -7,4 +7,4 @@
 2. Rent a linux-based virtual machine on a cloud server, for example [here](https://azure.microsoft.com/en-us);
 3. Сonfigure your remote server (for example, configure http / https connections, shh connections and create your server domain name);
 4. Install [docker](https://docs.docker.com/engine/install) and [docker-compose](https://docs.docker.com/compose/install) to your remote server;
-5. Get a free certificate from [Let's Encrypt](https://letsencrypt.org/getting-started)
+5. Get a free [Let's Encrypt](https://letsencrypt.org/getting-started) certificate for the domain name of your remote server;
