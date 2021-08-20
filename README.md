@@ -16,7 +16,7 @@
 ### Bot setup:
   - Go to folder `telegrambot` with command `cd telegrambot`;
     - Сreate a bot configuration file `.env` following the next example:
-    ```.env
-    API_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
-    WEBHOOK_HOST=https://example.com
-    ```
+      ```.env
+      API_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
+      WEBHOOK_HOST=https://example.com
+      ```
