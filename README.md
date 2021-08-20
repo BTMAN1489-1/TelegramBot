@@ -14,5 +14,5 @@
   - Go to the project folder with the command `cd TelegramBot`;
 
 ### Bot setup:
-  - Go to folder name with command `cd telegrambot`;
+  - Go to folder `telegrambot` with command `cd telegrambot`;
     - Сreate a bot configuration file `.env` following the example file `.env.example`;
