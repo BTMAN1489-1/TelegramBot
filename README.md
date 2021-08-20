@@ -18,7 +18,7 @@
     - Сreate a bot configuration file `.env` following the next example:
       ```.env
       API_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11    # your token should be here
-      WEBHOOK_HOST=https://example.com                       # your domain name of remote server should be here
+      WEBHOOK_HOST=example.com                       # your domain name of remote server should be here
       ```
   - Go to the root of the project with the command `cd ..`;
  ### Nginx server setup:
