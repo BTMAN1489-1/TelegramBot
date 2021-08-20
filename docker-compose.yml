@@ -1,0 +1,29 @@
+version: '3.9'
+
+services:
+  nginx:
+    container_name: nginx
+    image: nginx
+    restart: unless-stopped
+    networks:
+      bot_net:
+    volumes:
+      - /etc/letsencrypt:/etc/letsencrypt:ro
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - "80:80"
+      - "443:443"
+    command: '/bin/sh -c ''while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g "daemon off;"'''
+
+  tgbot:
+    container_name: tgbot
+    build: ./telegrambot
+    restart: unless-stopped
+    networks:
+      bot_net:
+    command: python3 app.py
+    
+
+networks:
+  bot_net:
+    name: bot_net

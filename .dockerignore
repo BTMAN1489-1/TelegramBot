@@ -1,0 +1,9 @@
+Procfile
+runtime.txt
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.gitignore
+.git
+__pypackages__/
+.idea/*
+
