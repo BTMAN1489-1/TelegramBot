@@ -20,3 +20,10 @@
       API_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11    # this is your token
       WEBHOOK_HOST=https://example.com                       # this is your domain name of remote server
       ```
+  - Go to the root of the project with the command `cd ..`;
+ ### Nginx server setup:
+  - Go to folder `nginx` with command `cd nginx`;
+    - Open nginx config file `nginx.conf` with command `nano nginx.conf`;
+      - Insert your domain name of the remote server instead of the 'example.com';
+      - Save and exit;
+  - Go to the root of the project with the command `cd ..`;
