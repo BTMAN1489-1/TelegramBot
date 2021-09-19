@@ -1,0 +1,46 @@
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:13,962 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327849]: [success] (in 216 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:14,515 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6233] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:14,756 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327850]: [success] (in 242 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:15,132 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6234] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:15,372 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327851]: [success] (in 241 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:15,739 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6235] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:15,952 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327852]: [success] (in 213 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:16,319 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6236] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:16,545 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327853]: [success] (in 226 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:17,4 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6237] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:17,259 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327854]: [success] (in 255 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:17,670 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6238] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:17,872 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327855]: [success] (in 203 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:18,233 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6239] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:18,448 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327856]: [success] (in 215 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:18,806 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6240] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:19,47 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327857]: [success] (in 240 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:19,408 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6241] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:19,606 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327858]: [success] (in 197 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:19,966 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6242] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:20,177 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327859]: [success] (in 211 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:20,679 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6243] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:21,23 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327860]: [success] (in 344 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:21,509 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6244] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:21,722 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327861]: [success] (in 214 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:22,81 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6245] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:22,299 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327862]: [success] (in 218 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:22,659 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6246] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:22,865 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327863]: [success] (in 207 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:23,241 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6247] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:23,459 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327864]: [success] (in 218 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:23,819 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6248] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:24,59 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327865]: [success] (in 240 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:24,421 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6249] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:24,631 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327866]: [success] (in 210 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:25,1 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6250] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:25,225 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327867]: [success] (in 223 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:25,583 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6251] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:25,820 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327868]: [success] (in 237 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:26,179 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6252] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:26,466 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327869]: [success] (in 287 ms)
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:26,821 logging.on_pre_process_message.lineno(37) massage: Received message [ID:6253] in chat [private:1659596387]
+[INFO] aiogram.contrib.middlewares.logging 2021/09/19-00:13:27,103 logging.on_post_process_update.lineno(34) massage: Process update [ID:458327870]: [success] (in 282 ms)
+[WARNING] root 2021/09/19-00:13:50,826 app.on_shutdown.lineno(35) massage: Shutting down bot dependencies
+[WARNING] root 2021/09/19-00:13:51,13 app.on_shutdown.lineno(39) massage: All bot dependencies are closed
+[WARNING] root 2021/09/19-00:13:51,15 app.<module>.lineno(57) massage: Bot closed successfully
